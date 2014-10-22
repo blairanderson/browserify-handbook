@@ -23,6 +23,7 @@
     "default-pager": "^1.0.1"
   },
   "bin": {
-    "browserify-handbook": "bin/cmd.js"
+    "browserify-handbook": "bin/cmd.js",
+    "hello": "./bin/hello.js"
   }
 }
